@@ -29,5 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## gh-pages
 ```sh
 git checkout -b gh-pages
-ng build --configuration-production --base-href https://necdetuygur.github.io/angular-nested-router/
+ng build --base-href https://necdetuygur.github.io/angular-nested-router/
 ```
